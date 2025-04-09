@@ -1,2 +1,2 @@
 # Web_Developer-
-ront-end, back-end, and database technologies.
+Front-end, back-end, and database technologies.
